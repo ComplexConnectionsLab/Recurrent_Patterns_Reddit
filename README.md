@@ -1,5 +1,5 @@
 ## Recurring patterns in online social media interactions during highly engaging events
-Github Repository to reproduce the analysis and figure in [https://arxiv.org/abs/2205.03639](https://arxiv.org/abs/2205.03639)
+Github Repository to reproduce the analysis and figure in [https://arxiv.org/abs/2306.14735](https://arxiv.org/abs/2306.14735)
 
 ## Dependencies
 Python (3.10.0)
